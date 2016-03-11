@@ -1,6 +1,10 @@
 # jq-smooth-scroll
 jQueryによるスムーズスクロール。タブ切り替えやアコーディオンとのバッティングなし。
 
+## Demo
+
+http://yuking11.github.io/jq-smooth-scroll/
+
 ## Usage
 
 一般的なアンカーリンクにdata-scroll属性を追加（\<a href="#hoge" data-scroll>hoge\</a>）することでスムーズスクロール付きアンカーリンクとなります。
