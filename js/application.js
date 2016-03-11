@@ -3,7 +3,6 @@ $(document).ready(function(){
   // スムーズスクロール
   /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
   $(function(){
-    //$('a[href^=#]:not([data-toggle])').on('click', function() {
     $('[data-scroll]').on('click', function() {
       var speed   = 500,
           $self   = $(this),
